@@ -90,24 +90,24 @@ body {
   .slide:nth-child(2) {
 	background: rgb(17, 41, 17);
 	color:antiquewhite;
-	animation-delay:2s;
+	animation-delay:5s;
   }
    
   .slide:nth-child(3) {
 	background: rgb(17, 41, 17);
 	color:antiquewhite;
-	animation-delay: 4s;
+	animation-delay: 10s;
   }
    
   .slide:nth-child(4) {
 	background: rgb(17, 41, 17);
 	color:antiquewhite;
-	animation-delay:6s;
+	animation-delay:15s;
   }
   .slide:nth-child(5) {
 	background: rgb(17, 41, 17);
 	color:antiquewhite;
-	animation-delay:8s;
+	animation-delay:20s;
   }
    
   /* Define the animation
